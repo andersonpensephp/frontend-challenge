@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Main /> should... 1`] = `
+.c0 {
+  color: #fff;
+  background: blue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100%;
+}
+
+.c1 {
+  font-size: 2.5rem;
+  margin: 10px 0;
+}
+
+.c2 {
+  font-size: 1.5rem;
+  margin: 10px 0;
+}
+
+<main
+  class="c0"
+>
+  <h1
+    class="c1"
+  >
+    Reactjs
+  </h1>
+  <p
+    class="c2"
+  >
+    Descrição
+  </p>
+</main>
+`;
